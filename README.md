@@ -10,13 +10,13 @@ Widget works on spaces, dashboard and profile.
 
 ## Installation
 1. Download the module and upload it to your modules directory >yourdomain.com>protected>modules
-2. Rename module directory ```adsence``` (May not be required!)
+2. Rename module directory ```adsese``` (May not be required!)
 3. Enable module from >Admin>Modules
 
 
 ## Administration
 
-In `Administration -> AdSense` you can ad your google adsense code
+In `Administration -> AdSense` you can add your google adsense code
 
 ## Authors/Module Website
 
