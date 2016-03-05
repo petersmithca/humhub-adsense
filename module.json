@@ -1,0 +1,10 @@
+{
+    "id": "adsense",
+    "name": "AdSense",
+    "description": "Adds Google AdSense Functionality.",
+    "keywords": ["ads", "adsense"],
+    "version": "0.1.0",
+    "humhub": {
+        "minVersion": "0.20"
+    }
+}
