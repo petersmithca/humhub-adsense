@@ -10,7 +10,7 @@ Widget works on spaces, dashboard and profile.
 
 ## Installation
 1. Download the module and upload it to your modules directory >yourdomain.com>protected>modules
-2. Rename module directory ```adsese``` (May not be required!)
+2. Rename module directory ```adsense``` (May not be required!)
 3. Enable module from >Admin>Modules
 
 
