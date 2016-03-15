@@ -17,7 +17,7 @@ use humhub\models\Setting;
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- In Post Correct -->
 	<ins class="adsbygoogle"
-     style="display:inline-block;width:95%;height:auto"
+     style="display:inline-block;width:360px;height:60px"
      data-ad-client="<?php print Setting::Get('client', 'adsense');?>"
      data-ad-slot="<?php print Setting::Get('slot', 'adsense');?>"></ins>
 <script>
