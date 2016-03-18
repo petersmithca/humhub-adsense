@@ -4,7 +4,7 @@ use humhub\models\Setting;
 ?>
 <div class="panel">
   <div class="panel-heading">
-    <?=Yii::t('Humhub-chatModule.base', '<strong>Community</strong> Ad'); ?>
+    <?=Yii::t('AdsenseModule.base', '<strong>Community</strong> Ad'); ?>
   </div>
   <div class="panel-body">
   <?php
