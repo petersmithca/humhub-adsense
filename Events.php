@@ -6,10 +6,10 @@ use yii\helpers\Url;
 use humhub\modules\adsense\widgets\AdFrame;
 use humhub\models\Setting;
 
-class Events extends \yii\base\Object
+class Events
 {
 
-    public static function onAdminMenuInit(\yii\base\Event $event)
+    public static function onAdminMenuInit($event)
     {
         $event->sender->addItem([
             'label' => Yii::t('AdsenseModule.base', 'AdSense Settings'),
