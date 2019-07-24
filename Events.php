@@ -23,9 +23,9 @@ class Events
 
     public static function addAdFrame($event)
     {
-        if (Yii::$app->user->isGuest) {
-            return;
-        }
+        // if (Yii::$app->user->isGuest) {
+        //     return;
+        // }
         $event->sender->addWidget(AdFrame::className(), [], [
             'sortOrder' => Setting::Get('timeout', 'adsense')
         ]);
