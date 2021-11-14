@@ -1,3 +1,6 @@
+# My HumHub Modules are not supported any longer. I am no longer actively involved in any HumHub development.
+
+
 # [HumHub](https://github.com/humhub/humhub) Adsense
 
 This module is for HumHub Version 0.20 (Yii 2) and greater and cannot be used with HumHub Version 0.1x (Yii 1.1)
